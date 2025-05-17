@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coderthemes/admin-resources.git"
+    "url": "git+https://github.com/Adriellf/admin-resources.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coderthemes/admin-resources/issues"
+    "url": "https://github.com/Adriellf/admin-resources/issues"
   },
-  "homepage": "https://github.com/coderthemes/admin-resources"
+  "homepage": "https://github.com/Adriellf/admin-resources"
 }
